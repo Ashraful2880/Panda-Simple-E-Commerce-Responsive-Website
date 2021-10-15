@@ -3,4 +3,5 @@
 
 * This is Simple E-Commerce Static Website
 * HTML & Bootstrap Used this Project.
+* Fully Responsive.
 * Deployed On Netlify
